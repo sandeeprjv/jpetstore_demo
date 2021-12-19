@@ -1,5 +1,5 @@
 MyBatis JPetStore
-For Demo new
+For Demo new EED-13
 =================
 
 [![Build Status](https://travis-ci.org/mybatis/jpetstore-6.svg?branch=master)](https://travis-ci.org/mybatis/jpetstore-6)
